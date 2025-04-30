@@ -1,5 +1,11 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
 #brasil{
-    border: solid 3px red;
+    border: solid 3px #219ebc;
     height: 55vh;
     width: 80vw;
     background-color: aqua;
@@ -12,4 +18,7 @@
 .brasilimg{
     height: 40vh;
     width: 20vw;
+}
+body{
+    color: #023047;
 }
